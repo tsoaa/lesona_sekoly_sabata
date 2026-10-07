@@ -21,7 +21,7 @@
   -->
 
 <resources>
-    <string name="ss_app_name">"Sabbatsskole"</string>
+    <string name="ss_app_name">"My Adventist"</string>
     <string name="ss_share">"Dele"</string>
     <string name="ss_login_button_google">"Logg på med Google"</string>
     <string name="ss_login_button_anonymous">"Logg inn som anonym"</string>

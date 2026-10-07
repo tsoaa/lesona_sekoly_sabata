@@ -21,7 +21,7 @@
   -->
 
 <resources>
-    <string name="ss_app_name">"सब्बाथ स्कूल"</string>
+    <string name="ss_app_name">"My Adventist"</string>
     <string name="ss_share">"शेयर"</string>
     <string name="ss_login_button_google">"Google के साथ साइन इन करें"</string>
     <string name="ss_login_button_anonymous">"अनाम रूप से लॉगिन करें"</string>

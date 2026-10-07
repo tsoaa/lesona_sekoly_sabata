@@ -23,7 +23,7 @@
 <resources>
 
     <!-- Hey Vitaly, would you prefer the app's name to be just "Seventh Day" (lit. resting day" in Japanese), or something like "Seventh Day/Sabbath School Guide?" -->
-    <string name="ss_app_name">"安息日学校"</string>
+    <string name="ss_app_name">"My Adventist"</string>
     <string name="ss_share">"共有"</string>
     <string name="ss_login_button_google">"Googleアカウントでログイン"</string>
     <string name="ss_login_button_anonymous">"無名でログイン"</string>

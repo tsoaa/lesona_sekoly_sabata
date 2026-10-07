@@ -21,7 +21,7 @@
   -->
 
 <resources>
-    <string name="ss_app_name">"Субботняя Школа"</string>
+    <string name="ss_app_name">"My Adventist"</string>
     <string name="ss_share">"Поделиться"</string>
     <string name="ss_login_button_google">"Войти через Google"</string>
     <string name="ss_login_button_anonymous">"Продолжить анонимно"</string>

@@ -21,7 +21,7 @@
   -->
 
 <resources>
-    <string name="ss_app_name">"Sekolah Sabat"</string>
+    <string name="ss_app_name">"My Adventist"</string>
     <string name="ss_share">"Bagikan"</string>
     <string name="ss_login_button_google">"Masuk dengan Google"</string>
     <string name="ss_login_button_anonymous">"Masuk tanpa login"</string>

@@ -21,7 +21,7 @@
   -->
 
 <resources>
-    <string name="ss_app_name">"Biblíulexíur"</string>
+    <string name="ss_app_name">"My Adventist"</string>
     <string name="ss_share">"Deila"</string>
     <string name="ss_login_button_google">"Skráðu þig inn með Google"</string>
     <string name="ss_login_button_anonymous">"Innskráning Nafnlaust"</string>

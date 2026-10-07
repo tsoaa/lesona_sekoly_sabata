@@ -23,7 +23,7 @@
   -->
 
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation, UnusedResources">
-    <string name="ss_app_name">"Sabbath School"</string>
+    <string name="ss_app_name">"My Adventist"</string>
     <string name="ss_channel_offline_sync">Offline Sync</string>
     <string name="ss_share">"Share"</string>
     <string name="ss_login_button_google">"Sign in with Google"</string>

@@ -21,7 +21,7 @@
   ~ THE SOFTWARE.
   -->
 <resources>
-    <string name="ss_app_name">"ಸಬ್ಬತ್ ಶಾಲೆ"</string>
+    <string name="ss_app_name">"My Adventist"</string>
     <string name="ss_share">"ಹಂಚಿಕೊಳ್ಳಿ"</string>
     <string name="ss_login_button_google">"Google ನೊಂದಿಗೆ ಸೈನ್ ಇನ್ ಮಾಡಿ"</string>
     <string name="ss_login_button_anonymous">"ಅನಾಮಧೇಯವಾಗಿ ಲಾಗಿನ್ ಮಾಡಿ"</string>

@@ -22,7 +22,7 @@
   -->
 
 <resources>
-    <string name="ss_app_name">"Sobotní škola"</string>
+    <string name="ss_app_name">"My Adventist"</string>
     <string name="ss_channel_offline_sync">Offline synchronizace</string>
     <string name="ss_share">"Sdílet"</string>
     <string name="ss_login_button_google">"Přihlásit se s účtem Google"</string>

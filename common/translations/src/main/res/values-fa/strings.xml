@@ -21,7 +21,7 @@
   -->
 
 <resources>
-    <string name="ss_app_name">"دانشکده سبت"</string>
+    <string name="ss_app_name">"My Adventist"</string>
     <string name="ss_share">"اشتراک گذاری"</string>
     <string name="ss_login_button_google">"ورود به سیستم با گوگل"</string>
     <string name="ss_login_button_anonymous">"ورود به عنوان ناشناس"</string>

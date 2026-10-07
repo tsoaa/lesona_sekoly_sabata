@@ -21,7 +21,7 @@
   -->
 
 <resources>
-    <string name="ss_app_name">"ספר שבת"</string>
+    <string name="ss_app_name">"My Adventist"</string>
     <string name="ss_share">"לַחֲלוֹק"</string>
     <string name="ss_login_button_google">"היכנס באמצעות Google"</string>
     <string name="ss_login_button_anonymous">"התחברות כ- אנונימי"</string>

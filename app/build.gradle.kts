@@ -51,7 +51,7 @@ extensions.configure<ApplicationExtension> {
     namespace = BuildAndroidConfig.APP_ID
 
     defaultConfig {
-        applicationId = BuildAndroidConfig.APP_ID
+        applicationId = BuildAndroidConfig.APPLICATION_ID
 
         versionCode = appVersionCode
         versionName = BuildAndroidConfig.Version.name
@@ -216,6 +216,7 @@ fun Project.readPropertyValue(
 
 object BuildAndroidConfig {
     const val APP_ID = "com.cryart.sabbathschool"
+    const val APPLICATION_ID = "mg.lesona.adventiste"
     const val KEYSTORE_PROPS_FILE = "../release/keystore.properties"
     const val API_KEYS_PROPS_FILE = "release/ss_public_keys.properties"
     const val VERSION_PROPS_FILE = "../release/build_number.properties"
